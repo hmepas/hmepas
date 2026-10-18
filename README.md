@@ -4,8 +4,6 @@
 
 Engineering leader who has been on every side of the table: the entire IT department of an ISP, a one-man web studio, 10 years of BigTech at Yandex, and the CTO seat in a non-tech industry. I build teams, ship products, and are able to measure it-stuff in business metrics.
 
-> *"A good developer thinks like a CTO — and a good CTO thinks in GMV and EBITDA, not in technologies."*
-
 ---
 
 ## Career arc
