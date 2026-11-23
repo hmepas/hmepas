@@ -15,12 +15,10 @@ Engineering leader who has been on every side of the table: the entire IT depart
 - **Sole System Administrator — Yauza Telecom** (ISP) — the entire IT function of a company on one person: servers in a pigeon-infested attic, 3 a.m. outages, subscribers on the phone, installer crews to coordinate. No backup, no excuses
 
 ## What I do
-
-**Strategic leadership** · Team building (170+) · **AI adoption in engineering** · Architecture & highload · Budget management · Legacy refactoring · Turning engineering cost centers into business results
+I assemble teams that get things done. No team? No problem: I'm a one-man army when it comes to building a product.
 
 ## Stack & signals
-
-`Python` `Go` `Java` `C` `Perl / legacy` `Linux` `Nuxt 3 / modern web` `Web Vitals` `HighLoad` `Peta-scale data` `AI Engineering`
+**Strategic leadership** · Team building (170+) · **AI adoption in engineering** · Architecture & highload · Budget management · Legacy refactoring · Turning engineering cost centers into business results
 
 ## Talks & media
 
